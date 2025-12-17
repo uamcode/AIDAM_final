@@ -82,9 +82,9 @@ sudo apt-get install -y libsndfile1 ffmpeg portaudio19-dev
 
 | 파일명 | 설명 | 크기 | 다운로드 링크 |
 |--------|------|------|---------------|
-| `denoiser.th` | 음성 노이즈 제거 모델 | ~80MB | [Google Drive](#) |
-| `Conformer-CTC-BPE.nemo` | 한국어 ASR 모델 | ~120MB | [Google Drive](#) |
-| `korean_4gram.binary` | KenLM 언어 모델 | ~500MB | [Google Drive](#) |
+| `denoiser.th` | 음성 노이즈 제거 모델 | ~80MB | [Google Drive](https://drive.google.com/drive/folders/1CmP71JljIw9lsz1Ai6dnGpWkCEahB8db?usp=sharing) |
+| `Conformer-CTC-BPE.nemo` | 한국어 ASR 모델 | ~120MB | [Google Drive](https://drive.google.com/drive/folders/1CmP71JljIw9lsz1Ai6dnGpWkCEahB8db?usp=sharing) |
+| `korean_4gram.binary` | KenLM 언어 모델 | ~500MB | [Google Drive](https://drive.google.com/drive/folders/1CmP71JljIw9lsz1Ai6dnGpWkCEahB8db?usp=sharing) |
 | `qwen3-1.7b/` | 키워드 추출 모델 | ~3.5GB | [HuggingFace](https://huggingface.co/Qwen/Qwen3-1.7B) |
 
 **폴더 구조:**
