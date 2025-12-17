@@ -1,0 +1,42 @@
+# 모델 파일 (용량이 커서 Git에서 제외)
+models/*.th
+models/*.nemo
+models/*.ckpt
+models/*.binary
+models/*.arpa
+models/qwen3-1.7b/
+checkpoint/
+
+# 녹음 파일
+call_recordings/*.wav
+call_recordings/*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 가상환경
+venv/
+env/
+ENV/
+
+# 환경변수 파일
+.env
+
+# 임시 파일
+web/
+*.tmp
+*.log
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS 파일
+.DS_Store
+Thumbs.db
